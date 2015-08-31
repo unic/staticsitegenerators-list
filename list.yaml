@@ -2705,3 +2705,9 @@
   license: "Apache"
   language: "Java"
   description: "Blazing fast, extremely simple static site generator."
+
+- name: "Estático"
+  github: "unic/estatico"
+  license: "Apache 2.0"
+  language: "JavaScript"
+  description: "Highly flexible static site generator based on Gulp.js"
